@@ -1,0 +1,2 @@
+# Vanilla.Data
+Vanilla is a voluntary organisation management system. It is used by voluntary organisations to manage their list of members and relationships with other organisations, companies and artists.
